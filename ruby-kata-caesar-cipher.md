@@ -2,7 +2,7 @@ Write a method `def caesar_cipher(string, number)` that takes a string and a num
 
 * Shift each letter in the string `number` spots down the alphabet. For example, running `caesar_cipher("a", 2)` would return `"c"`. `caesar_cipher("z", 2)` would return `"b"`. `caesar_cipher("Caesar", 2)` would return `"Ecguct"`.
 
-* Punctuation, capitlization and spacing should be unchanged. Numbers also remain unchanged.
+* Punctuation, capitalization and spacing should be unchanged. Numbers also remain unchanged.
 
 Notes:
 
