@@ -15,7 +15,3 @@ def caesar_cipher(string, shift)
   end
   arr.join('')
 end
-
-puts caesar_cipher('Ari is really cool! zZZz', 26)
-puts caesar_cipher('Ari is really cool! zZZz', 25)
-puts caesar_cipher('Ari is really cool! zZZz', 1)
